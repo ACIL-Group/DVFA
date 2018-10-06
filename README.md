@@ -1,6 +1,6 @@
 # DVFA #
 
-Dual Vigilance Fuzzy ART - Companion MATLAB Code:
+### Dual Vigilance Fuzzy ART - Companion MATLAB Code: ###
 
 * All published scholarly work that makes use of this code shall reference both the 
 Applied Computational Intelligence Laboratory (ACIL) repository and the manuscript:
