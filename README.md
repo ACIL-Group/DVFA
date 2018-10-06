@@ -10,7 +10,7 @@ Neural Networks Letters. To appear.
 
 2. L. E. Brito da Silva, I. Elnabarawy, and D. C. Wunsch II, "Dual Vigilance Fuzzy ART," 2018. 
 [Online]. 
-<br/>Available: https://github.com/ACIL-Group/DVFA.git
+<br/>Available: https://github.com/ACIL-Group/DVFA
 
 * The data sets used in the experiments section of the Dual Vigilance Fuzzy ART (DVFA) paper are available at:
 
